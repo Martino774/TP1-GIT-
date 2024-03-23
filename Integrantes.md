@@ -5,5 +5,5 @@
 - Martino Perez
 - Mateo Gariboglio
 - Santiago Williner
-- Franco taborda
+- Franco Taborda
 - Giorgio Uberti
